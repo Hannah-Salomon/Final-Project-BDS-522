@@ -1,0 +1,29 @@
+---
+title: "Introduction"
+---
+
+### Chronic Absenteeism in the U.S.: what is the importance of studying chronic student absence?
+Chronic absenteeism is mainly defined as missing 15 or more days of the school year.  Research indicates that chronic absenteeism is a risk factor for staying engaged in school, lower academic performance, prevention of reaching early learning milestones, and generally falling behind in school.  Chronic absenteeism is a pervasive issue in the U.S.[1].  According to the U.S. Department of Education [2], nearly 1 in 5 students in the U.S. are chronically absent in the high school years, although chronic absenteeism affects all grade levels of elementary, middle, and high school.
+
+An outstanding interest of mine and in my future career in quantitative methods is to examine the nature of how educational attainment differs between different groups (ethnicity, SES, geographic regions) and the variables that affect both academic and personal achievement on both an individual level and on a larger scale; and also to be able to quantify these measures in order to create a meaningful and understandable picture for practictioners, policy makers, other researchers, and general constituents so that we can improve educational programs and communities for our nation's youth.
+
+### This Project
+The focus of this study is to examine the relationship between the ethnicities of students who experience chronic absenteeism and the regions in which races/ethnicities have the highest prevalence.  The races/ethnicities are a mutually exclusive and exhaustive list that are comprised of the following:
+
+* American Indian or Alaskan Native
+* Asian
+* Hispanic or Latino of any race
+* Black or African American
+* Native Hawaiian or Other Pacific Islander
+* Two or more races
+* White
+
+The regions of the U.S. are as follows:
+
+1. Northeast
+2. Midwest
+3. South
+4. West
+
+### Hypothesis and Research Questions
+The background research of this project led me to ask the question, does chronic absenteeism for each race/ethnicity differ by region of the U.S.?  In other words, can the region of the U.S. predict chronic absenteeism by race?  The null hypothesis is that there are no differences in chronic absenteeism by race/ethnicity according to the region of the U.S.  The alternative hypothesis is at least one region can predict chronic absenteeism by at least one category of race/ethnic group.  In this case, race/ethncity group is the dependent variable, and region of the U.S. is the independent variable.  While race/ethnicity is the overall response variable, for this analysis, each ethnic group will be tested independently against the variable of region as a factor variable.  Total chronic absenteeism by region will also be examined.

@@ -1,0 +1,6 @@
+---
+title: "Analysis"
+---
+
+### Procedure
+Regression analysis was performed on the independent factor variable of region onto the dependent variable of ethnicity.  While there was only one independent variable, separate regressions were performed on each ethncity.  In each regression, the reference group was chosen to be the Northeast region.  The northeast region was chosen because it is known as the region that is the most econimocally developed, densely populated, and culturally diverse [3][4].
