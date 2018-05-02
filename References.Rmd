@@ -2,8 +2,6 @@
 title: "References"
 ---
 
-
-## References
 [1],[2] U.S. Department of Education. (n.d.). Civil Rights data collection: 2013-14 data notes. Retrieved from https://ocrdata.ed.gov/Downloads/Data-Notes-CRDC-2013-14.pdf
 
 [3] U.S. Department of Commerce Economics and Statistics Administration U.S. Census Bureau. (n.d.). Census regions and divisions of the United States. Retrieved from https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
