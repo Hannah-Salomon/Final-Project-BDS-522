@@ -9,7 +9,7 @@ navbar:
       href: data.html
     - text: "Analysis and Results"
       href: results.html
-    - text: "Conclusions"
+    - text: "Conclusion"
       href: conclusions.html
     - text: "References"
       href: references.html
